@@ -10,7 +10,7 @@ Dark mode:
 
 - Applied to organize your tasks with the following data: title, description, date, mark as complete and mark as important.
 - Tasks are organized into routes: today's tasks, important tasks, incomplete, complete, all tasks and tasks by directory (folder). Directories and tasks can be edited or deleted. In addition, there is a main directory called "Main" which cannot be edited or deleted.
-- The list of tasks can be displayed first in: nearest, farthest, complete or incomplete.
+- The list of tasks can be displayed first in nearest, farthest, complete or incomplete.
 - You can search for any tasks in the search field.
 - Today's tasks are shown in the user section and in notifications.
 - Tasks, directories and darkmode data are saved to localStorage.
@@ -29,17 +29,13 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 - HTML
 - Figma (prototyping)
 
-## How to test
-
-You can access the project here: https://todo-app-all.netlify.app/
-
 Or run on your machine:
 
 clone project
 ```
-git clone https://github.com/aridsm/tasks-app.git
+git clone https://github.com/YatharthChauhan2362/TO-DO_LIST.git
 ```
-go to projet
+go to project
 ```
 cd tasks-app
 ```
